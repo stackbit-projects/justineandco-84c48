@@ -59,7 +59,7 @@
             {
                 "label": "Get Started",
                 "url": "/pricing",
-                "style": "link",
+                "style": "secondary",
                 "has_icon": false
             }
         ],
