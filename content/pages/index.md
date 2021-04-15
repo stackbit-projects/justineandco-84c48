@@ -11,7 +11,7 @@ sections:
       - label: Notre Agence
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Contact
         url: /features
         style: secondary
     image: images/perpetual-giraffe.png
